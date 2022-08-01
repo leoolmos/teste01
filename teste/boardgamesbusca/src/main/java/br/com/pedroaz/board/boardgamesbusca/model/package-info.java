@@ -1,0 +1,1 @@
+package br.com.pedroaz.board.boardgamesbusca.model;
